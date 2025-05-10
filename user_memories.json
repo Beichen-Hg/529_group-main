@@ -1,0 +1,14 @@
+{
+  "1": {
+    "chat_contexts": [],
+    "created_at": "2025-05-09T20:50:13.587413",
+    "personality_traits": {
+      "extraversion": 0.5,
+      "neuroticism": 0.5,
+      "conscientiousness": 0.5,
+      "openness": 0.5
+    },
+    "preferences": {},
+    "topics_of_interest": []
+  }
+}

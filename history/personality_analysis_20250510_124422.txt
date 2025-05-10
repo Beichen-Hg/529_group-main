@@ -1,0 +1,16 @@
+分析时间: 2025-05-10 12:44:22
+
+性格分析报告：
+
+五大人格特质分析：
+外向性 (Extraversion): 0.52
+神经质 (Neuroticism): 0.52
+尽责性 (Conscientiousness): 0.49
+宜人性 (Agreeableness): 0.49
+开放性 (Openness): 0.51
+
+MBTI性格类型预测：ISTJ
+类型说明：ISTJ被称为「物流师」型，是内向、务实、注重细节且高度负责的类型。他们遵循规则、重视秩序，擅长逻辑分析和实际执行，通常表现出冷静、可靠和保守的特质。
+分析依据：
+
+获取深度分析时发生错误：'VoiceChatBot' object has no attribute '_get_deep_analysis'

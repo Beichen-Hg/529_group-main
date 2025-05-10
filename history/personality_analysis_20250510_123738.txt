@@ -1,0 +1,12 @@
+分析时间: 2025-05-10 12:37:38
+
+性格分析报告：
+
+五大人格特质分析：
+外向性 (Extraversion): 0.52
+神经质 (Neuroticism): 0.51
+尽责性 (Conscientiousness): 0.49
+宜人性 (Agreeableness): 0.49
+开放性 (Openness): 0.51
+
+获取深度分析时发生错误：'VoiceChatBot' object has no attribute '_get_deep_analysis'

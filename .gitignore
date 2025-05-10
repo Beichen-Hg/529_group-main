@@ -1,0 +1,10 @@
+# 大文件
+helper/best_model_backup.keras
+helper/test_set.dat
+helper/training_set.dat
+helper/validation_set.dat
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo

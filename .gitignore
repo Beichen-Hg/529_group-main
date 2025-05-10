@@ -1,10 +1,22 @@
-# 大文件
-helper/best_model_backup.keras
-helper/test_set.dat
-helper/training_set.dat
-helper/validation_set.dat
+# Large files
+**/best_model_backup.keras
+**/test_set.dat
+**/training_set.dat
+**/validation_set.dat
+*.keras
+*.dat
 
-# Python缓存文件
+# Python cache files
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# Logs and temp files
+logs/
+temp/
+*.log

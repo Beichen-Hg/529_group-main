@@ -1,8 +1,8 @@
 # Large files
-**/best_model_backup.keras
-**/test_set.dat
-**/training_set.dat
-**/validation_set.dat
+helper/best_model_backup.keras
+helper/test_set.dat
+helper/training_set.dat
+helper/validation_set.dat
 *.keras
 *.dat
 
@@ -18,5 +18,5 @@ __pycache__/
 
 # Logs and temp files
 logs/
-temp/
 *.log
+temp/
